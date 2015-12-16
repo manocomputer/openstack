@@ -1,0 +1,5 @@
+DEVICE=ens160
+ONBOOT=yes
+TYPE=Ethernet
+NAME="ens160"
+BOOTPROTO=dhcp
